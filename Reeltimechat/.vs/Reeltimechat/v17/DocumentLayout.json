@@ -3,23 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\uzun3\\source\\repos\\Reeltimechat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Documents\\DevExpress Demos 24.1\\DevExtreme\\ASP.NET MVC Controls\\WidgetsGallery\\MVC5\\Models\\Weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|c:\\users\\uzun3\\source\\repos\\reeltimechat\\reeltimechat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|solutionrelative:reeltimechat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|c:\\users\\uzun3\\source\\repos\\reeltimechat\\reeltimechat\\views\\mesajlar\\mesajlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|solutionrelative:reeltimechat\\views\\mesajlar\\mesajlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|c:\\users\\uzun3\\source\\repos\\reeltimechat\\reeltimechat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|solutionrelative:reeltimechat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|c:\\users\\uzun3\\source\\repos\\reeltimechat\\reeltimechat\\controllers\\mesajlarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|solutionrelative:reeltimechat\\controllers\\mesajlarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|c:\\users\\uzun3\\source\\repos\\reeltimechat\\reeltimechat\\views\\home\\kay\u0131tol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|solutionrelative:reeltimechat\\views\\home\\kay\u0131tol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|c:\\users\\uzun3\\source\\repos\\reeltimechat\\reeltimechat\\views\\mesajlar\\mesajlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|solutionrelative:reeltimechat\\views\\mesajlar\\mesajlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|c:\\users\\uzun3\\source\\repos\\reeltimechat\\reeltimechat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|solutionrelative:reeltimechat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|c:\\users\\uzun3\\source\\repos\\reeltimechat\\reeltimechat\\views\\home\\kay\u0131tol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|solutionrelative:reeltimechat\\views\\home\\kay\u0131tol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95708678-FC5E-4AA4-85DC-E8216409508E}|Reeltimechat\\Reeltimechat.csproj|c:\\users\\uzun3\\source\\repos\\reeltimechat\\reeltimechat\\models\\kisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,25 +55,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Weather.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\DevExpress Demos 24.1\\DevExtreme\\ASP.NET MVC Controls\\WidgetsGallery\\MVC5\\Models\\Weather.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Public\\Documents\\DevExpress Demos 24.1\\DevExtreme\\ASP.NET MVC Controls\\WidgetsGallery\\MVC5\\Models\\Weather.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\DevExpress Demos 24.1\\DevExtreme\\ASP.NET MVC Controls\\WidgetsGallery\\MVC5\\Models\\Weather.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Public\\Documents\\DevExpress Demos 24.1\\DevExtreme\\ASP.NET MVC Controls\\WidgetsGallery\\MVC5\\Models\\Weather.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\uzun3\\source\\repos\\Reeltimechat\\Reeltimechat\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Reeltimechat\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\uzun3\\source\\repos\\Reeltimechat\\Reeltimechat\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Reeltimechat\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:16:38.165Z",
+              "WhenOpened": "2024-07-25T22:36:57.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "mesajlar.cshtml",
               "DocumentMoniker": "C:\\Users\\uzun3\\source\\repos\\Reeltimechat\\Reeltimechat\\Views\\mesajlar\\mesajlar.cshtml",
               "RelativeDocumentMoniker": "Reeltimechat\\Views\\mesajlar\\mesajlar.cshtml",
               "ToolTip": "C:\\Users\\uzun3\\source\\repos\\Reeltimechat\\Reeltimechat\\Views\\mesajlar\\mesajlar.cshtml",
               "RelativeToolTip": "Reeltimechat\\Views\\mesajlar\\mesajlar.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAswAsAAAADAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-25T10:12:37.433Z",
               "EditorCaption": ""
@@ -87,12 +88,11 @@
               "RelativeToolTip": "Reeltimechat\\Models\\kisiler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:10:13.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T10:10:13.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "kay\u0131tol.cshtml",
               "DocumentMoniker": "C:\\Users\\uzun3\\source\\repos\\Reeltimechat\\Reeltimechat\\Views\\Home\\kay\u0131tol.cshtml",
               "RelativeDocumentMoniker": "Reeltimechat\\Views\\Home\\kay\u0131tol.cshtml",
@@ -100,18 +100,17 @@
               "RelativeToolTip": "Reeltimechat\\Views\\Home\\kay\u0131tol.cshtml",
               "ViewState": "AQIAAAQAAAAAAAAAAAAswAoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-25T10:05:36.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T10:05:36.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\uzun3\\source\\repos\\Reeltimechat\\Reeltimechat\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Reeltimechat\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\uzun3\\source\\repos\\Reeltimechat\\Reeltimechat\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Reeltimechat\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAywBkAAAAAAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAlwCIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T10:57:18.233Z",
               "EditorCaption": ""
@@ -124,7 +123,7 @@
               "RelativeDocumentMoniker": "Reeltimechat\\Controllers\\mesajlarController.cs",
               "ToolTip": "C:\\Users\\uzun3\\source\\repos\\Reeltimechat\\Reeltimechat\\Controllers\\mesajlarController.cs",
               "RelativeToolTip": "Reeltimechat\\Controllers\\mesajlarController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAXAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T10:57:34.167Z",
               "EditorCaption": ""
@@ -139,8 +138,7 @@
               "RelativeToolTip": "Reeltimechat\\Models\\birles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T12:59:12.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T12:59:12.616Z"
             },
             {
               "$type": "Document",
@@ -152,8 +150,7 @@
               "RelativeToolTip": "Reeltimechat\\Models\\mesajoku.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T09:49:22.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T09:49:22.184Z"
             },
             {
               "$type": "Document",

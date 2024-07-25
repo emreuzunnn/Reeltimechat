@@ -26,6 +26,16 @@
                 <input type="submit" name="buton" value="Send" class="btn btn-primary btn-block" />
             </div>
         </form>
+        <ul id="liste">
+            @foreach (var it in Model.lista)
+            {
+                <li>
+                    Gönderen Kişi @it.gonderen Mesaj:  @it.mesaj
+
+                </li>
+            }
+
+        </ul>
 
 
 
@@ -66,6 +76,7 @@
                     console.log(kullanıcıAdı + " " + kadDeğeri)
                     if ("@Reeltimechat.Controllers.HomeController.kullanıcıadı" == kadDeğeri) {
                         mesajlistesi.prepend(li);
+                        console.log("emre");
                     }
                      
                     

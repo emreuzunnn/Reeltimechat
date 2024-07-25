@@ -14,6 +14,7 @@ namespace Reeltimechat.Hubs
             Mesaj mesajverisi=new Mesaj(); mesajverisi.mesaj = mesajveri;
             mesajverisi.kad=kadDeğeri; 
             clas.message = mesajverisi;
+            
             veri.mesajat(clas);
 
           
